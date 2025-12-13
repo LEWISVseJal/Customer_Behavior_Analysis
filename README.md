@@ -150,6 +150,7 @@ Business Intelligence & Dashboard Design
 Analytical Thinking & Data Storytelling
 
 **▶️ How to Run the Project**
+
 Python Analysis
 pip install pandas numpy matplotlib seaborn sqlalchemy
 

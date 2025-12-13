@@ -152,7 +152,8 @@ Analytical Thinking & Data Storytelling
 **▶️ How to Run the Project**
 
 Python Analysis
-pip install pandas numpy matplotlib seaborn sqlalchemy
+
+    pip install pandas numpy matplotlib seaborn sqlalchemy
 
 
 Open the Jupyter notebook

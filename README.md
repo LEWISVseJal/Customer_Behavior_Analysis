@@ -155,6 +155,4 @@ pip install pandas numpy matplotlib seaborn sqlalchemy
 
 ---
 
-## 📌 Conclusion
-
-This project demonstrates a complete **end-to-end data analytics pipeline**, showcasing practical skills in Python, SQL, and Power BI. It reflects real-world data analysis scenarios and is suitable for data analyst and business analyst roles.
+## 📌 Screenshot
